@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p1monumentagerma05geseuoft_0009.png"; bbox 0 0 2267 3105; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 193 1059 1747 1155">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 193 1059 1747 1155">
+     <span class='ocr_line' id='line_1_1' title="bbox 193 1059 1747 1155; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 193 1059 639 1155; x_wconf 76' lang='lat' dir='ltr'>LEGES</span> <span class='ocrx_word' id='word_1_2' title='bbox 720 1060 960 1154; x_wconf 78' lang='lat' dir='ltr'>BAI</span> <span class='ocrx_word' id='word_1_3' title='bbox 978 1059 1747 1155; x_wconf 79' lang='lat' dir='ltr'><strong>WARIORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 892 1355 1056 1386">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 892 1355 1056 1386">
+     <span class='ocr_line' id='line_1_2' title="bbox 892 1355 1056 1386; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 892 1355 1056 1386; x_wconf 85' lang='lat' dir='ltr'><strong>DDDDDD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 328 1537 1698 1605">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 328 1537 1698 1605">
+     <span class='ocr_line' id='line_1_3' title="bbox 328 1537 1698 1605; baseline -0.001 0"><span class='ocrx_word' id='word_1_5' title='bbox 328 1557 671 1605; x_wconf 80' lang='lat' dir='ltr'>ERNESTUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 710 1558 906 1605; x_wconf 82' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_7' title='bbox 947 1559 1125 1605; x_wconf 84' lang='lat' dir='ltr'>BARO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1162 1559 1249 1605; x_wconf 81' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1287 1557 1612 1605; x_wconf 77' lang='lat' dir='ltr'>SCHWIND.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1695 1537 1698 1540; x_wconf 26' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 200 2904 390 2924">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 200 2904 390 2924">
+     <span class='ocr_line' id='line_1_4' title="bbox 200 2904 390 2924; baseline 0.011 -2"><span class='ocrx_word' id='word_1_11' title='bbox 200 2904 243 2924; x_wconf 82' lang='lat' dir='ltr'>LL.</span> <span class='ocrx_word' id='word_1_12' title='bbox 259 2904 272 2922; x_wconf 74' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_13' title='bbox 275 2905 390 2924; x_wconf 69' lang='lat' dir='ltr'>eeeeeeee</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
